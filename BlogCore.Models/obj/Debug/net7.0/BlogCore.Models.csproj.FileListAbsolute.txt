@@ -1,0 +1,12 @@
+C:\Users\Iñaki Nava Rodríguez\source\repos\BlogCore\BlogCore.Models\bin\Debug\net7.0\BlogCore.Models.deps.json
+C:\Users\Iñaki Nava Rodríguez\source\repos\BlogCore\BlogCore.Models\bin\Debug\net7.0\BlogCore.Models.dll
+C:\Users\Iñaki Nava Rodríguez\source\repos\BlogCore\BlogCore.Models\bin\Debug\net7.0\BlogCore.Models.pdb
+C:\Users\Iñaki Nava Rodríguez\source\repos\BlogCore\BlogCore.Models\obj\Debug\net7.0\BlogCore.Models.csproj.AssemblyReference.cache
+C:\Users\Iñaki Nava Rodríguez\source\repos\BlogCore\BlogCore.Models\obj\Debug\net7.0\BlogCore.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iñaki Nava Rodríguez\source\repos\BlogCore\BlogCore.Models\obj\Debug\net7.0\BlogCore.Models.AssemblyInfoInputs.cache
+C:\Users\Iñaki Nava Rodríguez\source\repos\BlogCore\BlogCore.Models\obj\Debug\net7.0\BlogCore.Models.AssemblyInfo.cs
+C:\Users\Iñaki Nava Rodríguez\source\repos\BlogCore\BlogCore.Models\obj\Debug\net7.0\BlogCore.Models.csproj.CoreCompileInputs.cache
+C:\Users\Iñaki Nava Rodríguez\source\repos\BlogCore\BlogCore.Models\obj\Debug\net7.0\BlogCore.Models.dll
+C:\Users\Iñaki Nava Rodríguez\source\repos\BlogCore\BlogCore.Models\obj\Debug\net7.0\refint\BlogCore.Models.dll
+C:\Users\Iñaki Nava Rodríguez\source\repos\BlogCore\BlogCore.Models\obj\Debug\net7.0\BlogCore.Models.pdb
+C:\Users\Iñaki Nava Rodríguez\source\repos\BlogCore\BlogCore.Models\obj\Debug\net7.0\ref\BlogCore.Models.dll
